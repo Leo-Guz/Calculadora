@@ -1,0 +1,17 @@
+.btn-effect {
+  height: 80px;
+  display: flex;
+  flex: 1;
+  background-color: #353cc0;
+  margin: 0px;
+  justify-content: center;
+  align-items: center;
+  font-size: xx-large;
+  color: white;
+  border-radius: 20px;
+  cursor: pointer;      
+}
+
+.btn-effect:hover {
+  background-color: #484ec6;
+}
